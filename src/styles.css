@@ -160,3 +160,12 @@ main {
 input {
   border: none;
 }
+
+#github-link {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#github-url {
+  text-align: center;
+}
